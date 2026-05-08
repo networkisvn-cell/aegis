@@ -9,13 +9,6 @@ interface Project {
 
 const projects: Project[] = [
   {
-    name: 'discord',
-    description: '',
-    tech: ['SYSTEM OPERATOR',],
-    link: 'https://discord.gg/nakkhotro'
-  }
-const projects: bot[] = [
-  {
     name: 'REO',
     description: 'DISCORD BEST NEW ALL IN ONE BOT',
     tech: ['python',],
